@@ -968,7 +968,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 537px;
+  min-height: 647px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
@@ -1018,29 +1018,15 @@
 }
 
 .u-section-3 .u-icon-2 {
-  width: 82px;
-  height: 82px;
-  margin: 21px auto 0;
+  width: 118px;
+  height: 118px;
+  margin: 30px auto 0;
   padding: 0;
 }
 
 .u-section-3 .u-text-3 {
   font-weight: 700;
-  margin: 11px 30px 0;
-}
-
-.u-section-3 .u-text-4 {
-  font-size: 1.125rem;
-  margin: 20px 30px 0;
-}
-
-.u-section-3 .u-btn-2 {
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  background-image: none;
-  font-weight: 700;
-  margin: 31px auto 0;
-  padding: 17px 49px 17px 47px;
+  margin: 22px 30px 0;
 }
 
 .u-section-3 .u-layout-cell-3 {
@@ -1048,19 +1034,32 @@
 }
 
 .u-section-3 .u-container-layout-3 {
-  padding: 30px;
+  padding: 4px 30px 0;
 }
 
 .u-section-3 .u-icon-3 {
-  width: 118px;
-  height: 118px;
-  margin: 0 auto;
+  width: 92px;
+  height: 92px;
+  margin: 22px auto 0;
   padding: 0;
 }
 
-.u-section-3 .u-text-5 {
+.u-section-3 .u-text-4 {
   font-weight: 700;
-  margin: 7px 0 0;
+  margin: 18px 0 0;
+}
+
+.u-section-3 .u-text-5 {
+  margin: 20px auto 0;
+}
+
+.u-section-3 .u-btn-2 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  font-weight: 700;
+  margin: 47px auto 0;
+  padding: 17px 49px 17px 47px;
 }
 
 @media (max-width: 1199px) {
@@ -1091,11 +1090,6 @@
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-4 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
   .u-section-3 .u-layout-cell-3 {
     min-height: 344px;
   }
@@ -1112,14 +1106,6 @@
 
   .u-section-3 .u-layout-cell-2 {
     min-height: 314px;
-  }
-
-  .u-section-3 .u-text-3 {
-    width: auto;
-  }
-
-  .u-section-3 .u-text-4 {
-    width: auto;
   }
 
   .u-section-3 .u-layout-cell-3 {
@@ -1173,26 +1159,8 @@
     min-height: 396px;
   }
 
-  .u-section-3 .u-icon-2 {
-    margin-top: 20px;
-  }
-
-  .u-section-3 .u-text-3 {
-    margin-top: 12px;
-  }
-
-  .u-section-3 .u-layout-cell-3 {
-    min-height: 319px;
-  }
-
   .u-section-3 .u-container-layout-3 {
     padding-left: 0;
     padding-right: 0;
-  }
-
-  .u-section-3 .u-text-5 {
-    width: auto;
-    margin-top: 30px;
-    margin-left: 20px;
   }
 }
