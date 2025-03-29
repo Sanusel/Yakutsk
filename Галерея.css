@@ -870,7 +870,13 @@
   }
 
   .u-section-2 .u-container-layout-1 {
-    padding-top: 155px;
+    padding-top: 67px;
+    padding-bottom: 67px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-left: 20px;
   }
 
   .u-section-2 .u-list-1 {
